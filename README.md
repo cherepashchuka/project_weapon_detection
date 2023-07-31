@@ -14,4 +14,4 @@ The data includes 6427 train (81.14%), 997 val (12.59%) and 497 test (6.27%) ima
 In the future, the model will be trained on the whole dataset (51K images).\
 **Image examples:**
 <p align="center">
-<img src="rep_images/train_batch36181.jpg" height="600" ></p>
+<img src="rep_images/train_batch36181.jpg"></p>
