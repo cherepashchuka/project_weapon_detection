@@ -18,8 +18,8 @@ In the future, the model will be trained on the whole dataset (51K images).\
 ### Project files
 ```
 .
-├── gun_detection_yolo.pt # Weights for YOLOv8 model
-├── video_live.py         # Using a model for a recorded video with live result
-├── video_processing.py   # Using a model for a recorded video and save result
-└── webcam_live.py        # Using a model for a webcam with live result
+├── gun_detection_yolo.pt # Weights for YOLOv8 model.
+├── video_live.py         # Using a model for a recorded video with live result.
+├── video_processing.py   # Using a model for a recorded video and save result.
+└── webcam_live.py        # Using a model for a webcam with live result.
 ```
